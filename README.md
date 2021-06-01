@@ -15,7 +15,11 @@ The balloon game is intended for virtual reality research at Rhodes College. See
 ### Pull Requests
 Before you can request the project code on your local device, you must first fork the project to your Github account. You can do this by clicking the fork button on the top right of the repository. 
 
-Next, you will clone the project. Click on the green Clone button, and copy the link. Open your computer's terminal and type "git clone https://github.com/[USERNAME]/BalloonGame.git". You should now have the project on your local device. 
+Next, you will clone the project. Click on the green Clone button, and copy the link. Open your computer's terminal and type 
+```
+  git clone https://github.com/[USERNAME]/BalloonGame.git. 
+```
+You should now have the project on your local device. 
 
 ### Oculus
 Plug in the Oculus device using the USBC cable, plugging one end into the Oculus and one end into the computer. Once dev settings are enabled and the Project is on your local device, go to file > Build and Run. You can now find the App in the Oculus under APPS > Unknown Sources > Com.RhodesCollege.BalloonGame. You can change the name under Edit > Player Settings > Player. 
